@@ -3,7 +3,7 @@ Template for working with javascript exercises in the browser in the Kea electiv
 
 Installation
 
-|| git clone https://github.com/keanodejs/03_browserfiles.git
+<pre> git clone https://github.com/keanodejs/03_browserfiles.git </pre>
 
 Usage
 
