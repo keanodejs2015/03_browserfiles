@@ -1,5 +1,4 @@
-// you can delete this 
-// before you put your own code in here
+// you can delete this before you put your own code in here
 
 var x = {
 	helloString : 'Hello',
