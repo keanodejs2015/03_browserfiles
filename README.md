@@ -1,4 +1,4 @@
-# 03_browserfiles
+# 03 Browser Files
 Template for working with javascript exercises in the browser in the Kea elective Node.js - Backend Development & AngularJS Frontend Development electives.
 
 ## Installation
